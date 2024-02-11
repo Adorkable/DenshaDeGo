@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "電車でGO", "電車でGO\電車でGO.csproj", "{83FB0BB6-7D84-4290-857E-FD9A8040C723}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleConsoleApp", "ExampleConsoleApp\ExampleConsoleApp.csproj", "{6F8A56A6-7D46-48EF-B50E-7F437F1970D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83FB0BB6-7D84-4290-857E-FD9A8040C723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FB0BB6-7D84-4290-857E-FD9A8040C723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FB0BB6-7D84-4290-857E-FD9A8040C723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FB0BB6-7D84-4290-857E-FD9A8040C723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8A56A6-7D46-48EF-B50E-7F437F1970D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8A56A6-7D46-48EF-B50E-7F437F1970D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8A56A6-7D46-48EF-B50E-7F437F1970D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8A56A6-7D46-48EF-B50E-7F437F1970D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A392C27-4E6E-4A09-9CF4-2D6A4BE238FD}
+	EndGlobalSection
+EndGlobal
